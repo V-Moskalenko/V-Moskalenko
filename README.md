@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vadim
-#### I am junior Python developer
+#### I am Python developer
 ![I am Python developer](https://static.tildacdn.com/tild6235-3762-4566-b266-336433626430/gbnjyvjhbtq.png)
 
 
