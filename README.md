@@ -39,3 +39,5 @@
 ---
 
 ![codewars](https://www.codewars.com/users/V-Moskalenko/badges/large)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/v-moskalenko?theme=dark&font=Life%20Savers)
